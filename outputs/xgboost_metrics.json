@@ -1,0 +1,14 @@
+{
+    "model_name": "XGBoost",
+    "threshold": 0.5,
+    "precision": 0.9696969696969697,
+    "recall": 0.9411764705882353,
+    "f1_score": 0.955223880597015,
+    "auc_roc": 0.9780605423987777,
+    "auc_pr": 0.9461434714007314,
+    "false_positive_rate": 0.003246753246753247,
+    "true_positives": 64,
+    "false_positives": 2,
+    "true_negatives": 614,
+    "false_negatives": 4
+}

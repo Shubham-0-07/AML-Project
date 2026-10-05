@@ -1,0 +1,11 @@
+{
+    "model_name": "Hard-Rule Baseline ",
+    "precision": 0.1890547263681592,
+    "recall": 0.5588235294117647,
+    "f1_score": 0.28252788104089216,
+    "false_positive_rate": 0.26461038961038963,
+    "true_positives": 38,
+    "false_positives": 163,
+    "true_negatives": 453,
+    "false_negatives": 30
+}

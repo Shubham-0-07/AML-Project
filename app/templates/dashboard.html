@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head><title>AML Dashboard</title></head>
+<body>
+  <h1>AML Prediction Dashboard</h1>
+  <p>Total Predictions: {{ total }}</p>
+  <p>Suspicious Predictions: {{ suspicious }}</p>
+
+  <h3>Recent Activity:</h3>
+  <table border="1">
+    <tr><th>Time</th><th>Amount</th><th>Hour</th><th>Day</th><th>Prediction</th></tr>
+    {% for row in data %}
+      <tr>
+        <td>{{ row.timestamp }}</td>
+        <td>{{ row.amount }}</td>
+        <td>{{ row.hour }}</td>
+        <td>{{ row.day }}</td>
+        <td>{{ 'Suspicious' if row.prediction == 1 else 'Not Suspicious' }}</td>
+      </tr>
+    {% endfor %}
+  </table>
+
+  <br><a href="/">← Back to Predictor</a>
+</body>
+</html>

@@ -1,0 +1,301 @@
+alert_id,linked_transaction,alert_reason,analyst_comments,escalation_status,SAR_filed,regulatory_outcome
+ALT1000,102115,Structuring,Difficult tax thousand now trade letter final.,Escalated,True,Investigating
+ALT1001,100333,Suspicious Pattern,Movement parent visit foot either.,Escalated,False,Investigating
+ALT1002,101200,PEP Link,Address teacher happy.,Pending,False,Investigating
+ALT1003,101768,Structuring,Within where night man concern.,Escalated,True,Reported
+ALT1004,100613,High Value,Current certain picture rise in ok next.,Escalated,False,Reported
+ALT1005,101165,Structuring,Center husband them.,Escalated,False,Investigating
+ALT1006,100124,PEP Link,Personal staff writer parent teach from.,Dismissed,True,Cleared
+ALT1007,101709,High Value,Pass success that safe.,Dismissed,False,Reported
+ALT1008,101515,Suspicious Pattern,Risk chance no into difficult.,Dismissed,False,Investigating
+ALT1009,100882,Suspicious Pattern,Better will occur figure surface everybody room.,Escalated,True,Reported
+ALT1010,101919,Suspicious Pattern,Mrs amount politics film society voice.,Dismissed,True,Reported
+ALT1011,101343,High Value,Discover catch stop official show son.,Dismissed,True,Reported
+ALT1012,100635,High Value,Tonight its marriage none.,Pending,True,Investigating
+ALT1013,100909,PEP Link,Become tend baby general.,Escalated,True,Investigating
+ALT1014,101691,Structuring,Very card different stock some.,Escalated,False,Cleared
+ALT1015,101105,PEP Link,Economy last summer rest teach professor.,Dismissed,False,Reported
+ALT1016,100015,PEP Link,International director else me management.,Pending,False,Reported
+ALT1017,100506,Suspicious Pattern,Morning law economy project community.,Dismissed,True,Investigating
+ALT1018,102974,Suspicious Pattern,Ball whom west.,Escalated,True,Cleared
+ALT1019,102226,PEP Link,Through computer cell job high.,Escalated,True,Investigating
+ALT1020,101323,Structuring,Explain food everybody guess.,Dismissed,False,Investigating
+ALT1021,102096,PEP Link,Down look claim event century open.,Dismissed,True,Reported
+ALT1022,100483,High Value,Answer why long station notice list.,Pending,False,Reported
+ALT1023,100817,PEP Link,Phone college travel great.,Dismissed,True,Investigating
+ALT1024,101432,Structuring,Explain test project begin deal together.,Pending,True,Cleared
+ALT1025,101647,Suspicious Pattern,Involve push city almost itself adult.,Dismissed,False,Reported
+ALT1026,101076,Suspicious Pattern,Spend all his he keep on age.,Pending,True,Investigating
+ALT1027,102433,Structuring,Their film nation hit week religious smile receive.,Dismissed,False,Cleared
+ALT1028,100396,High Value,In employee item current.,Escalated,False,Cleared
+ALT1029,102026,Suspicious Pattern,Cold stay year side red music street.,Pending,True,Reported
+ALT1030,102492,PEP Link,Idea door build not full water.,Pending,True,Cleared
+ALT1031,100501,Structuring,Deep economy election well.,Pending,True,Investigating
+ALT1032,102139,Structuring,Economic manage statement pressure.,Pending,False,Reported
+ALT1033,100740,PEP Link,Threat window anything investment.,Escalated,False,Cleared
+ALT1034,102177,PEP Link,Find remain why war story good.,Pending,False,Investigating
+ALT1035,100276,High Value,Child system deal amount fact eye.,Escalated,False,Investigating
+ALT1036,100773,Structuring,Guess life popular day network number.,Escalated,True,Investigating
+ALT1037,101280,Suspicious Pattern,Hold long turn spring case too.,Pending,False,Cleared
+ALT1038,102797,PEP Link,Watch but give ability laugh claim.,Pending,True,Cleared
+ALT1039,102818,PEP Link,Fly approach economic stock capital leg.,Pending,False,Investigating
+ALT1040,102416,PEP Link,Military three its.,Escalated,True,Cleared
+ALT1041,101481,PEP Link,Local act nation station run.,Dismissed,True,Reported
+ALT1042,100782,Structuring,Center sense that.,Escalated,False,Reported
+ALT1043,101442,Suspicious Pattern,Unit bad process you decide charge child.,Escalated,False,Reported
+ALT1044,101108,High Value,Treatment interesting exist view focus join evening candidate.,Escalated,False,Reported
+ALT1045,100897,High Value,Specific for word agency soon skin.,Pending,True,Investigating
+ALT1046,102390,High Value,Media leader wife director.,Dismissed,False,Reported
+ALT1047,102513,PEP Link,Offer reduce either seven sea movement take.,Pending,False,Reported
+ALT1048,102727,High Value,Mention idea represent rate though.,Dismissed,True,Reported
+ALT1049,100000,Suspicious Pattern,Husband way course property tonight.,Pending,False,Cleared
+ALT1050,100778,Structuring,Could cause between house.,Dismissed,True,Cleared
+ALT1051,100847,Structuring,Notice agreement build kitchen building cut.,Dismissed,True,Investigating
+ALT1052,102098,Suspicious Pattern,Audience reality lawyer consumer case player expect.,Pending,False,Cleared
+ALT1053,102202,High Value,Support talk fast read state everyone must lawyer.,Dismissed,False,Investigating
+ALT1054,100510,Structuring,Begin south light north start father on.,Pending,True,Cleared
+ALT1055,101510,Suspicious Pattern,Score television public role recognize wear mention.,Dismissed,True,Cleared
+ALT1056,101185,Suspicious Pattern,Clearly us yet manage although TV.,Dismissed,True,Investigating
+ALT1057,101573,Suspicious Pattern,Specific fish tough build.,Pending,False,Investigating
+ALT1058,100603,Suspicious Pattern,Our appear official staff moment future east relationship.,Pending,False,Reported
+ALT1059,100704,High Value,If computer arrive state lay song place.,Pending,True,Cleared
+ALT1060,100256,Structuring,Yourself past radio exactly.,Escalated,True,Reported
+ALT1061,102021,Structuring,Stuff television address director feeling group according today.,Pending,True,Investigating
+ALT1062,100205,Suspicious Pattern,Behavior stock off ball.,Pending,False,Cleared
+ALT1063,100946,Suspicious Pattern,Hair society story team price list.,Pending,True,Reported
+ALT1064,101984,High Value,Computer send foot responsibility also.,Dismissed,True,Investigating
+ALT1065,102469,High Value,Truth yet pressure watch relate.,Escalated,True,Cleared
+ALT1066,100393,Suspicious Pattern,Bag election four wall add contain professor.,Pending,False,Cleared
+ALT1067,101755,PEP Link,Data amount bank air.,Dismissed,False,Reported
+ALT1068,100874,High Value,May speak change provide.,Pending,False,Investigating
+ALT1069,100656,PEP Link,Hard him owner notice.,Dismissed,False,Cleared
+ALT1070,101482,Suspicious Pattern,General artist part eye.,Escalated,True,Reported
+ALT1071,101258,Structuring,Would number language if front evidence.,Pending,False,Investigating
+ALT1072,101638,Suspicious Pattern,Network even moment red our.,Dismissed,False,Cleared
+ALT1073,101446,Suspicious Pattern,Maintain risk sport source either five now.,Dismissed,False,Cleared
+ALT1074,101019,High Value,Nation current suffer staff girl most.,Pending,False,Cleared
+ALT1075,100338,Structuring,Agent age her give open enough authority.,Dismissed,False,Reported
+ALT1076,100167,Suspicious Pattern,Here four executive summer.,Escalated,True,Reported
+ALT1077,102097,High Value,Cause find discuss president assume drop.,Dismissed,True,Cleared
+ALT1078,100682,High Value,Catch while common picture.,Escalated,False,Reported
+ALT1079,100296,Structuring,Project contain size share stock like college mind.,Pending,True,Cleared
+ALT1080,101110,PEP Link,Realize east relationship nature.,Dismissed,False,Cleared
+ALT1081,101386,Structuring,Board traditional move decide star walk.,Escalated,True,Cleared
+ALT1082,101578,Suspicious Pattern,Late apply international clear power.,Escalated,True,Reported
+ALT1083,102195,High Value,Program foreign price them health.,Pending,True,Cleared
+ALT1084,100527,Structuring,Bad majority language affect far throughout.,Pending,False,Reported
+ALT1085,102276,PEP Link,Its state off education defense.,Dismissed,True,Investigating
+ALT1086,102809,Structuring,Always relationship professional own call successful deep establish.,Escalated,True,Investigating
+ALT1087,101753,Structuring,Six factor administration other.,Escalated,True,Cleared
+ALT1088,101498,Structuring,Resource college message news arm pull continue.,Escalated,False,Investigating
+ALT1089,101490,Suspicious Pattern,Service relationship vote education because.,Escalated,True,Investigating
+ALT1090,101776,PEP Link,Century relationship turn the meet happen fear.,Dismissed,True,Reported
+ALT1091,100900,Structuring,Film again would real again include citizen letter.,Escalated,True,Cleared
+ALT1092,100125,High Value,Respond event plan agreement the.,Dismissed,False,Cleared
+ALT1093,102605,High Value,Budget about or fly.,Pending,True,Investigating
+ALT1094,100611,PEP Link,Situation chair business act certain.,Pending,False,Cleared
+ALT1095,101526,High Value,More money politics catch.,Pending,True,Cleared
+ALT1096,100822,Structuring,Threat any happen his end wear field.,Dismissed,False,Cleared
+ALT1097,101617,PEP Link,Professional bank house notice save.,Dismissed,True,Reported
+ALT1098,102166,Suspicious Pattern,Little somebody entire fast chance glass.,Dismissed,True,Cleared
+ALT1099,101549,High Value,Democratic natural age already model yet question.,Dismissed,True,Cleared
+ALT1100,102471,High Value,Seek minute fire.,Escalated,False,Cleared
+ALT1101,102240,Structuring,Class art important eight box shake daughter.,Pending,True,Reported
+ALT1102,101267,High Value,Energy citizen stuff never identify ok just kind.,Dismissed,True,Investigating
+ALT1103,100849,PEP Link,Whose include decision degree fear.,Pending,False,Reported
+ALT1104,102483,PEP Link,Scene apply chair put.,Escalated,False,Reported
+ALT1105,102313,PEP Link,Peace surface give sister.,Escalated,True,Reported
+ALT1106,101887,Structuring,Be close son development policy modern take fast.,Escalated,False,Reported
+ALT1107,100207,PEP Link,Gas her be late red doctor.,Escalated,False,Cleared
+ALT1108,102585,High Value,Room support present family city.,Pending,True,Reported
+ALT1109,102402,PEP Link,Us without water last since anything smile moment.,Dismissed,True,Reported
+ALT1110,102249,Structuring,When control former any without property coach.,Pending,False,Reported
+ALT1111,101662,Structuring,Coach point doctor ahead administration should only market.,Escalated,True,Investigating
+ALT1112,100455,Suspicious Pattern,Size window population page.,Dismissed,False,Reported
+ALT1113,102298,PEP Link,Produce pick away hope figure always that.,Escalated,False,Cleared
+ALT1114,102186,Suspicious Pattern,Tell offer couple mission throughout indeed.,Dismissed,False,Reported
+ALT1115,101790,High Value,World city this I sometimes poor another.,Dismissed,True,Investigating
+ALT1116,100529,Suspicious Pattern,Sort read action art stop official large.,Pending,False,Cleared
+ALT1117,101542,Structuring,Character house audience imagine former only.,Dismissed,True,Cleared
+ALT1118,102107,Structuring,Third carry author religious rise effort including.,Pending,True,Investigating
+ALT1119,100430,Structuring,Before lot Congress another still now.,Dismissed,True,Reported
+ALT1120,100650,PEP Link,Religious writer tough baby suffer director house.,Dismissed,False,Investigating
+ALT1121,100857,Suspicious Pattern,Look final treat know.,Escalated,True,Cleared
+ALT1122,102927,Suspicious Pattern,Above trade ever box point popular.,Pending,False,Reported
+ALT1123,102938,Structuring,Pay office suddenly glass.,Pending,False,Investigating
+ALT1124,102769,Structuring,Despite research agreement along.,Dismissed,True,Investigating
+ALT1125,102012,Structuring,Kitchen apply now dream audience key.,Pending,False,Reported
+ALT1126,101696,PEP Link,Gas moment happen seek.,Pending,False,Cleared
+ALT1127,101695,Suspicious Pattern,Ground model just check.,Pending,False,Investigating
+ALT1128,102644,PEP Link,Candidate hair many down simply.,Dismissed,True,Reported
+ALT1129,102635,High Value,Notice suggest impact own mean PM same.,Pending,False,Investigating
+ALT1130,101024,Structuring,New difference either significant many.,Dismissed,False,Cleared
+ALT1131,100371,Structuring,Two pressure two attention.,Dismissed,False,Cleared
+ALT1132,101940,High Value,Money south born city.,Pending,False,Cleared
+ALT1133,102047,Structuring,Father without administration inside list.,Pending,False,Investigating
+ALT1134,101301,High Value,Worry nice ball former.,Pending,True,Cleared
+ALT1135,102503,High Value,Say Mr claim out student.,Escalated,True,Investigating
+ALT1136,101478,PEP Link,Person choice tough kind food.,Escalated,False,Investigating
+ALT1137,101143,PEP Link,Learn too work size be factor former majority.,Dismissed,True,Investigating
+ALT1138,102874,Structuring,Fire something light myself else travel.,Escalated,True,Investigating
+ALT1139,102496,Structuring,Ability actually production certainly.,Dismissed,False,Investigating
+ALT1140,100197,High Value,House take laugh perform education.,Escalated,True,Reported
+ALT1141,100660,Suspicious Pattern,Professor very responsibility leave.,Dismissed,True,Investigating
+ALT1142,101270,Structuring,Attention keep senior fight.,Dismissed,False,Reported
+ALT1143,101050,Suspicious Pattern,Foreign well probably radio.,Escalated,False,Cleared
+ALT1144,102995,PEP Link,Material school eight fast authority place candidate radio.,Pending,False,Cleared
+ALT1145,101195,Suspicious Pattern,Keep structure spend over page small environment.,Pending,True,Investigating
+ALT1146,100816,Suspicious Pattern,Security ask position.,Pending,True,Cleared
+ALT1147,102533,Suspicious Pattern,Big song south great system nation dog.,Dismissed,True,Reported
+ALT1148,100747,Suspicious Pattern,Talk policy second expect.,Escalated,True,Reported
+ALT1149,102559,PEP Link,Suffer long condition experience condition kid heart.,Dismissed,True,Cleared
+ALT1150,102963,Structuring,Able itself network product.,Pending,True,Reported
+ALT1151,101593,PEP Link,Explain maybe eat really process.,Pending,False,Reported
+ALT1152,101447,High Value,Among goal suggest option travel song.,Pending,True,Cleared
+ALT1153,102040,Suspicious Pattern,Prepare better between meeting deal sing show.,Escalated,False,Investigating
+ALT1154,102430,PEP Link,Professor start hair none between.,Escalated,True,Investigating
+ALT1155,102592,High Value,Dog describe central ever stuff imagine think team.,Pending,True,Reported
+ALT1156,100490,High Value,Heavy now offer rich recent.,Escalated,True,Investigating
+ALT1157,100925,PEP Link,Music impact music season military up fear.,Escalated,True,Reported
+ALT1158,102222,PEP Link,Worry add compare risk deep tonight here.,Dismissed,True,Reported
+ALT1159,102303,Structuring,Vote prove employee wife.,Escalated,True,Investigating
+ALT1160,101857,PEP Link,Which against member indeed position world take.,Pending,False,Reported
+ALT1161,100986,PEP Link,Shake apply more computer game well program.,Pending,True,Investigating
+ALT1162,100116,High Value,System bar yeah likely fly read cause.,Escalated,False,Investigating
+ALT1163,101838,Structuring,Hot where read.,Pending,False,Investigating
+ALT1164,100448,Suspicious Pattern,Station behind her number conference.,Pending,True,Cleared
+ALT1165,102320,PEP Link,Tell east pick coach.,Dismissed,True,Investigating
+ALT1166,101092,Suspicious Pattern,Value husband TV behavior leg including go.,Pending,True,Cleared
+ALT1167,101229,PEP Link,Walk away fight hold dinner resource go.,Escalated,True,Investigating
+ALT1168,100262,High Value,Hold know could daughter.,Dismissed,False,Investigating
+ALT1169,100018,Suspicious Pattern,Off resource field consumer financial industry town.,Pending,True,Investigating
+ALT1170,100309,High Value,Recent low offer what.,Escalated,False,Investigating
+ALT1171,100689,Suspicious Pattern,Cause anyone away enjoy back bill idea traditional.,Dismissed,False,Investigating
+ALT1172,100996,Structuring,Lay notice entire building simply machine father.,Dismissed,True,Cleared
+ALT1173,102684,High Value,Customer return clearly policy of television remain world.,Escalated,False,Cleared
+ALT1174,102663,PEP Link,Size who and audience past.,Escalated,True,Investigating
+ALT1175,101586,Structuring,Pick remain determine enough trouble.,Dismissed,False,Reported
+ALT1176,102169,Suspicious Pattern,Sport safe study safe rock yourself.,Dismissed,False,Investigating
+ALT1177,101089,PEP Link,About two may price term per they.,Escalated,True,Cleared
+ALT1178,102413,PEP Link,Sound cultural PM identify.,Pending,True,Investigating
+ALT1179,102630,PEP Link,Together air control.,Escalated,True,Reported
+ALT1180,102431,High Value,Not imagine else thought me on hospital.,Pending,True,Cleared
+ALT1181,102442,Structuring,Personal everything trial station design.,Dismissed,False,Reported
+ALT1182,100376,PEP Link,Deep which should sister ready along man.,Escalated,True,Reported
+ALT1183,101743,Suspicious Pattern,Process force in law.,Pending,True,Cleared
+ALT1184,102348,Structuring,Economy pretty city difficult fly future nor.,Dismissed,False,Investigating
+ALT1185,100644,PEP Link,Government lay remember series late investment old significant.,Dismissed,True,Cleared
+ALT1186,102815,Structuring,Foot race student worry pattern deal rule TV.,Pending,True,Investigating
+ALT1187,101890,Suspicious Pattern,Ready enjoy sense capital city guess work.,Escalated,True,Investigating
+ALT1188,102426,High Value,Six set hundred two listen hope stop green.,Dismissed,True,Cleared
+ALT1189,102461,PEP Link,Sister however team spring.,Dismissed,True,Investigating
+ALT1190,102945,PEP Link,Bar image father.,Dismissed,True,Reported
+ALT1191,101393,Suspicious Pattern,Article increase anyone.,Escalated,True,Reported
+ALT1192,101139,High Value,Partner ever American across focus level.,Escalated,False,Investigating
+ALT1193,100236,Suspicious Pattern,Just world teacher marriage consider piece.,Dismissed,False,Reported
+ALT1194,100588,PEP Link,Cold manager let board behavior affect.,Dismissed,True,Investigating
+ALT1195,100416,PEP Link,Next prove security five admit.,Escalated,True,Cleared
+ALT1196,101467,Suspicious Pattern,Machine beat class social chance.,Escalated,True,Cleared
+ALT1197,101312,Suspicious Pattern,Cell detail building.,Escalated,False,Cleared
+ALT1198,101306,Structuring,Hot teacher sign move candidate source discuss environment.,Dismissed,False,Investigating
+ALT1199,101056,Suspicious Pattern,Popular success heavy choice.,Pending,True,Cleared
+ALT1200,102270,High Value,Sit wait truth decide ten bag.,Dismissed,True,Reported
+ALT1201,100470,High Value,Tend key majority vote.,Escalated,False,Reported
+ALT1202,102238,PEP Link,School support line Democrat must.,Pending,False,Cleared
+ALT1203,101473,Structuring,Technology see many special level six option.,Escalated,False,Reported
+ALT1204,100918,Suspicious Pattern,Here especially building.,Escalated,False,Investigating
+ALT1205,100048,Structuring,Foreign direction both particular hundred during notice wide.,Pending,True,Investigating
+ALT1206,102855,PEP Link,North know good inside own station.,Escalated,False,Reported
+ALT1207,102019,PEP Link,Find hope example none seat better.,Escalated,False,Investigating
+ALT1208,102075,PEP Link,Result opportunity happy yet born quality cultural despite.,Dismissed,True,Cleared
+ALT1209,100434,PEP Link,Shoulder city probably similar window exist because.,Dismissed,True,Investigating
+ALT1210,100301,Suspicious Pattern,Lawyer onto letter out.,Dismissed,True,Investigating
+ALT1211,100911,PEP Link,He nation off six down.,Escalated,False,Investigating
+ALT1212,101150,Structuring,Character executive in town.,Pending,False,Investigating
+ALT1213,102894,Suspicious Pattern,Sure his style computer dog theory institution finally.,Escalated,False,Reported
+ALT1214,102968,Suspicious Pattern,Thousand true what nature whom call majority.,Escalated,False,Reported
+ALT1215,102905,Structuring,Method laugh purpose dark which often.,Dismissed,True,Investigating
+ALT1216,102054,High Value,Accept rate history do light dog.,Pending,True,Reported
+ALT1217,101428,PEP Link,Apply war perform hair sport American face.,Escalated,True,Investigating
+ALT1218,100133,High Value,Onto ball response fall religious kind.,Escalated,True,Reported
+ALT1219,102261,Structuring,Idea drug low same though these.,Dismissed,False,Investigating
+ALT1220,101931,Structuring,Production officer son entire.,Pending,False,Cleared
+ALT1221,102162,High Value,Your focus push meeting.,Escalated,False,Reported
+ALT1222,101562,PEP Link,Every loss party work help blood skin.,Escalated,True,Reported
+ALT1223,102994,High Value,Evidence culture model follow decade market we.,Pending,True,Cleared
+ALT1224,102741,Suspicious Pattern,Guy health stand it.,Escalated,False,Cleared
+ALT1225,102410,Suspicious Pattern,Sing maybe concern media notice open camera.,Dismissed,False,Investigating
+ALT1226,100960,PEP Link,Green agent baby magazine rock allow staff.,Escalated,False,Reported
+ALT1227,100596,Suspicious Pattern,Paper especially cold better few sign.,Dismissed,False,Cleared
+ALT1228,100462,Suspicious Pattern,Vote keep loss Democrat entire glass wear pretty.,Dismissed,False,Investigating
+ALT1229,101597,Structuring,Decade human second make information pull stuff.,Pending,False,Investigating
+ALT1230,100544,PEP Link,Street step most address present write family rather.,Dismissed,False,Investigating
+ALT1231,102051,PEP Link,Either life attention feeling mission wife everyone.,Escalated,True,Cleared
+ALT1232,100636,Suspicious Pattern,Thus across age factor lose ask.,Pending,False,Investigating
+ALT1233,101878,Suspicious Pattern,Kind garden understand anything.,Dismissed,False,Investigating
+ALT1234,101726,PEP Link,Likely task threat form skill international against.,Dismissed,False,Cleared
+ALT1235,102161,Structuring,Friend head everyone discover between.,Pending,True,Reported
+ALT1236,101785,Suspicious Pattern,Few case provide crime current research.,Dismissed,True,Cleared
+ALT1237,101509,Structuring,Who authority few common inside describe interest.,Pending,False,Reported
+ALT1238,100723,Structuring,Trade eat car the store.,Pending,False,Reported
+ALT1239,102660,High Value,Difference population choose trip.,Pending,False,Cleared
+ALT1240,100553,High Value,Read everything billion successful run tree try indicate.,Dismissed,True,Reported
+ALT1241,102908,PEP Link,Plant record build article myself push.,Escalated,False,Investigating
+ALT1242,101078,High Value,Drug two just.,Pending,True,Cleared
+ALT1243,102691,High Value,Course finally local outside explain source myself.,Escalated,True,Investigating
+ALT1244,101225,High Value,Family thus realize above southern factor condition.,Escalated,False,Cleared
+ALT1245,100215,High Value,For out class American walk together prepare.,Pending,True,Cleared
+ALT1246,100522,PEP Link,Remain sort show without.,Escalated,False,Reported
+ALT1247,101329,Structuring,Clearly leave can drive baby exist strong.,Pending,True,Reported
+ALT1248,100856,Structuring,Many recently talk travel.,Escalated,True,Investigating
+ALT1249,101952,High Value,President administration ask join paper three.,Dismissed,True,Investigating
+ALT1250,101701,Suspicious Pattern,Little civil notice.,Dismissed,True,Reported
+ALT1251,101122,Structuring,Day Democrat clear drug role style.,Dismissed,False,Cleared
+ALT1252,102277,Suspicious Pattern,Agent group respond language cell fact democratic there.,Pending,True,Investigating
+ALT1253,101058,Structuring,Term either season certainly.,Escalated,False,Cleared
+ALT1254,102658,Suspicious Pattern,Fact age their image.,Escalated,True,Reported
+ALT1255,102286,Structuring,Note hotel next nice.,Dismissed,True,Investigating
+ALT1256,100815,PEP Link,Develop be test these relate state there.,Dismissed,False,Investigating
+ALT1257,101877,Structuring,Building course also pressure sound.,Escalated,True,Reported
+ALT1258,100880,High Value,Act tonight north along.,Escalated,False,Cleared
+ALT1259,101954,High Value,Read clear indeed thing military information reality.,Pending,True,Cleared
+ALT1260,100695,Structuring,Much data cold I news itself movie.,Pending,True,Cleared
+ALT1261,101073,High Value,Campaign back reduce.,Escalated,False,Reported
+ALT1262,102008,High Value,Number bad beautiful record impact identify.,Pending,False,Cleared
+ALT1263,102078,Structuring,Edge president suggest none animal one.,Pending,True,Reported
+ALT1264,101845,Structuring,Source second past business appear American country those.,Escalated,False,Investigating
+ALT1265,102814,High Value,Father task window experience mission nation policy.,Escalated,False,Reported
+ALT1266,100450,Structuring,Appear local indeed away step realize.,Pending,True,Investigating
+ALT1267,102551,High Value,Computer top public center management whom change.,Pending,False,Cleared
+ALT1268,101366,PEP Link,Million not rather professional recognize challenge despite.,Escalated,True,Cleared
+ALT1269,102733,Suspicious Pattern,Business nice skin reason.,Dismissed,False,Cleared
+ALT1270,102253,Suspicious Pattern,Party dream will among ahead attention sure white.,Escalated,True,Reported
+ALT1271,100451,High Value,Price necessary senior break team gas he.,Pending,True,Reported
+ALT1272,101982,High Value,Store smile million both race out.,Pending,True,Investigating
+ALT1273,100420,PEP Link,Worry computer benefit indicate begin.,Pending,False,Investigating
+ALT1274,100111,High Value,Suffer enter travel population the.,Pending,True,Reported
+ALT1275,102457,High Value,Interest social of news wind station sense.,Escalated,False,Reported
+ALT1276,100700,High Value,Station poor reason exist sell improve happen nation.,Escalated,True,Cleared
+ALT1277,101391,Suspicious Pattern,Country ahead same good different money.,Escalated,False,Cleared
+ALT1278,102779,High Value,Cover cell school travel price carry direction should.,Dismissed,False,Cleared
+ALT1279,100733,Suspicious Pattern,Wide character use war data hundred.,Pending,False,Reported
+ALT1280,101206,PEP Link,A skill although claim there night fight.,Escalated,False,Cleared
+ALT1281,101044,PEP Link,Bad future capital across if receive meet.,Dismissed,False,Reported
+ALT1282,100049,High Value,Seven expert store.,Escalated,False,Reported
+ALT1283,102147,Suspicious Pattern,Idea four live station team cultural.,Pending,False,Investigating
+ALT1284,102284,Structuring,Her moment stop international.,Pending,False,Investigating
+ALT1285,100776,PEP Link,Seek since race.,Dismissed,True,Investigating
+ALT1286,102852,PEP Link,Conference size executive cause recently ball.,Dismissed,False,Cleared
+ALT1287,102770,PEP Link,Back similar skill see all.,Dismissed,True,Cleared
+ALT1288,100149,Structuring,First wind turn car very.,Dismissed,False,Reported
+ALT1289,102354,Structuring,Be again PM various raise huge live.,Escalated,False,Reported
+ALT1290,102808,High Value,Forward share middle.,Pending,True,Cleared
+ALT1291,102624,Structuring,List feel sometimes success pay.,Escalated,False,Reported
+ALT1292,101916,Structuring,Their look report company life blood.,Pending,False,Investigating
+ALT1293,102880,Suspicious Pattern,Memory read away dream.,Pending,True,Cleared
+ALT1294,100304,High Value,Cold buy plan pull head exactly young.,Dismissed,False,Investigating
+ALT1295,102903,Structuring,Book many feeling reveal lay according.,Escalated,True,Reported
+ALT1296,102764,Suspicious Pattern,Mission part Congress and.,Dismissed,True,Investigating
+ALT1297,101534,Suspicious Pattern,Hair yeah before spend behavior participant standard.,Pending,True,Reported
+ALT1298,102055,Suspicious Pattern,Yet full card but five cell.,Pending,False,Cleared
+ALT1299,101905,PEP Link,Lead behavior cause civil though tell scene.,Pending,True,Reported

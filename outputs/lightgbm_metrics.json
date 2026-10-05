@@ -1,0 +1,14 @@
+{
+    "model_name": "LightGBM",
+    "threshold": 0.5,
+    "precision": 0.9552238805970149,
+    "recall": 0.9411764705882353,
+    "f1_score": 0.9481481481481482,
+    "auc_roc": 0.9696094346829641,
+    "auc_pr": 0.9529120732202419,
+    "false_positive_rate": 0.00487012987012987,
+    "true_positives": 64,
+    "false_positives": 3,
+    "true_negatives": 613,
+    "false_negatives": 4
+}

@@ -1,0 +1,51 @@
+country,FATF_risk_level,is_sanctioned,regulatory_strength
+Belize,Medium,False,Strong
+Jersey,Low,True,Moderate
+Togo,Medium,True,Strong
+Tonga,High,False,Weak
+Belgium,Medium,False,Weak
+Tanzania,Medium,True,Moderate
+American Samoa,Medium,True,Strong
+Liechtenstein,High,False,Strong
+Bouvet Island (Bouvetoya),Medium,True,Moderate
+Mauritius,Low,True,Weak
+Tajikistan,High,True,Moderate
+Peru,Low,True,Moderate
+Egypt,Low,False,Strong
+Sri Lanka,High,False,Weak
+Svalbard & Jan Mayen Islands,High,True,Strong
+Georgia,Medium,False,Weak
+Cuba,Low,False,Strong
+British Virgin Islands,Medium,True,Weak
+Honduras,Low,False,Moderate
+Qatar,High,False,Moderate
+Philippines,High,True,Moderate
+China,Medium,True,Weak
+Central African Republic,Medium,False,Moderate
+Mauritania,Medium,True,Strong
+Mozambique,Low,False,Moderate
+Denmark,Low,True,Weak
+Saint Kitts and Nevis,High,True,Weak
+Syrian Arab Republic,Medium,True,Weak
+Malawi,High,False,Weak
+Bangladesh,Medium,False,Strong
+Slovenia,Low,True,Strong
+North Macedonia,Low,True,Weak
+Finland,Medium,True,Moderate
+Ecuador,High,True,Weak
+Norway,High,False,Moderate
+Cape Verde,High,True,Strong
+Brunei Darussalam,Medium,True,Weak
+Guernsey,Low,True,Strong
+El Salvador,Medium,True,Moderate
+Burundi,High,True,Strong
+Myanmar,High,True,Weak
+Venezuela,Medium,False,Strong
+Papua New Guinea,High,True,Weak
+Cayman Islands,Low,True,Strong
+Namibia,Low,True,Moderate
+Kenya,High,False,Weak
+Gibraltar,Low,True,Strong
+Cambodia,Low,True,Strong
+Saint Barthelemy,Low,True,Weak
+Puerto Rico,High,True,Strong

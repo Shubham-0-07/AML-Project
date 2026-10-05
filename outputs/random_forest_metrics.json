@@ -1,0 +1,14 @@
+{
+    "model_name": "Random Forest",
+    "threshold": 0.5,
+    "precision": 0.9846153846153847,
+    "recall": 0.9411764705882353,
+    "f1_score": 0.962406015037594,
+    "auc_roc": 0.9830261650114591,
+    "auc_pr": 0.9571287049041455,
+    "false_positive_rate": 0.0016233766233766235,
+    "true_positives": 64,
+    "false_positives": 1,
+    "true_negatives": 615,
+    "false_negatives": 4
+}

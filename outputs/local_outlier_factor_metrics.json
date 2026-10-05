@@ -1,0 +1,14 @@
+{
+    "model_name": "Local Outlier Factor",
+    "threshold_percentile": 90,
+    "precision": 0.057971014492753624,
+    "recall": 0.058823529411764705,
+    "f1_score": 0.05839416058394161,
+    "auc_roc": 0.4781799083269672,
+    "auc_pr": 0.08971218788783047,
+    "false_positive_rate": 0.10551948051948051,
+    "true_positives": 4,
+    "false_positives": 65,
+    "true_negatives": 551,
+    "false_negatives": 64
+}

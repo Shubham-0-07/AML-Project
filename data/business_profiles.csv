@@ -1,0 +1,101 @@
+account_id,business_name,registration_number,industry,country,revenue,employees,ownership_disclosed
+1049,"Torres, Hernandez and Hill",b0857d6a,Healthcare,Sweden,163618,19,False
+1365,Burton-Mitchell,f4b73ede,Crypto,Australia,366615,83,False
+1186,Grant-Brown,ac5ea302,Crypto,Tunisia,698858,31,True
+1010,Levine-Stephenson,3f23fadf,Crypto,Saint Pierre and Miquelon,339135,77,False
+1060,Jensen-Harrison,b87dea3c,Retail,Tuvalu,664962,11,False
+1042,Moore-Dodson,dbd8dd88,Retail,Brazil,499484,34,True
+1302,Rivera-Poole,f4439296,Crypto,Hong Kong,357093,13,False
+1364,Bradley-Watson,cde2ed74,Healthcare,Israel,217067,77,True
+1299,Thomas Inc,37df681e,Healthcare,Tanzania,995005,76,True
+1297,Richardson Inc,62f4f8f9,Import/Export,Marshall Islands,290284,100,False
+1146,"Kaiser, Mendez and Taylor",fb73efee,Import/Export,Libyan Arab Jamahiriya,728390,27,True
+1382,Morales Ltd,cf07c686,Finance,Greenland,691756,61,True
+1434,Williams-Jimenez,a5ef92bd,Finance,Fiji,356295,23,False
+1209,Esparza and Sons,aa9c0e60,Import/Export,Serbia,907874,100,False
+1396,Meyer PLC,f8cf6ec3,Healthcare,Germany,689031,97,True
+1051,Powell and Sons,fba8d4bc,Import/Export,United States Virgin Islands,953589,92,False
+1136,Johnson Inc,8f56958d,Retail,New Zealand,482893,67,True
+1372,May-Hicks,d06c315a,Retail,South Georgia and the South Sandwich Islands,728138,55,False
+1198,"Moore, Shelton and Davis",6c34cf83,Retail,Dominica,438975,56,True
+1002,Johnson and Sons,502f7f3a,Healthcare,Djibouti,415302,41,True
+1285,Torres-Wolf,58726f58,Crypto,Nauru,373121,17,False
+1305,Garcia-Harrison,d98887c4,Import/Export,Bolivia,145820,59,True
+1458,Bailey-Harper,98a82946,Healthcare,United Arab Emirates,222855,85,True
+1348,Frederick Inc,7fb2c94c,Import/Export,Svalbard & Jan Mayen Islands,335031,12,True
+1386,"Young, Valencia and Dixon",4be6ed1b,Healthcare,British Indian Ocean Territory (Chagos Archipelago),888665,85,True
+1046,Bryant-Bailey,8b6b1a8a,Import/Export,Aruba,790549,25,False
+1181,"Patel, Nichols and Crawford",193a7e93,Crypto,Thailand,253872,74,False
+1268,Lopez and Sons,d281f53c,Retail,Andorra,691518,21,True
+1351,Hull PLC,b3cdf6b5,Healthcare,Congo,836594,65,True
+1433,Erickson-Rivera,f7a5b469,Import/Export,Sao Tome and Principe,131780,83,True
+1253,Nelson PLC,f73c44e4,Import/Export,Libyan Arab Jamahiriya,644596,65,False
+1404,"Cisneros, Powell and Watkins",63ebba69,Retail,China,850820,70,False
+1162,Shaw Inc,dcb99ceb,Crypto,Japan,838403,67,True
+1287,Anderson-Phillips,30e5d203,Crypto,Croatia,919995,76,True
+1182,"Henderson, Jones and Dorsey",b184dc51,Retail,Malawi,617317,42,False
+1104,"Smith, Nelson and Carter",ff32d910,Crypto,Falkland Islands (Malvinas),768052,42,False
+1070,Brock-Brown,a5e1fa78,Finance,Belgium,120673,77,True
+1061,Mcbride-Pacheco,80b56730,Healthcare,Saint Helena,126994,73,False
+1033,Smith and Sons,679af2d6,Retail,Comoros,518106,13,True
+1324,"Evans, Kennedy and Mcguire",f1013d95,Finance,Vanuatu,229884,90,False
+1241,"Mercer, Smith and Morales",dc0071e2,Finance,Reunion,651811,40,True
+1446,Weaver-Johnson,279c4f8f,Finance,Sri Lanka,117347,97,False
+1007,"Miller, Rivera and Conley",7e801959,Retail,Iran,279507,52,False
+1180,Ray-Cross,b8f188d4,Import/Export,Burkina Faso,300528,53,False
+1093,Young and Sons,c516ba71,Import/Export,Vietnam,270806,70,False
+1205,"Franklin, Buckley and Watkins",59bdf762,Healthcare,Moldova,860610,80,False
+1402,Allen Ltd,f8c23e0c,Healthcare,Argentina,490801,12,True
+1025,Patton PLC,1ff545f4,Crypto,Zambia,932190,72,False
+1279,Barrett Group,70195d63,Healthcare,Lao People's Democratic Republic,222794,53,True
+1460,"Wilson, Olson and Craig",b7e695b4,Healthcare,Bulgaria,862661,80,True
+1431,Oneal-Patton,a6a5ebe3,Crypto,Czech Republic,378704,34,True
+1374,Vega-Marquez,e461f0e4,Import/Export,Colombia,809294,78,False
+1362,"Scott, Cook and Wilcox",9db34194,Crypto,New Zealand,898471,24,False
+1240,Walker-Fuller,3c4078af,Import/Export,Mauritius,201540,85,True
+1028,"Collins, Rush and Diaz",cee63b75,Retail,Palestinian Territory,821032,37,False
+1328,"Garcia, Morris and Jordan",3ae03724,Import/Export,Iran,555859,45,False
+1097,"Dixon, Wright and Martinez",b16b9b94,Retail,Myanmar,385000,96,True
+1185,Crawford-Hays,33225cfe,Finance,Afghanistan,368934,24,False
+1047,Mitchell-Simpson,6bf32c20,Retail,Fiji,648461,38,False
+1474,Willis-Terry,06ccb7aa,Finance,India,703586,71,True
+1439,"Gill, Sullivan and Hall",17850cdc,Healthcare,Kenya,392750,39,False
+1453,Phillips-Griffith,496631ba,Import/Export,Switzerland,320022,29,False
+1321,Montoya and Sons,9d89be21,Import/Export,Grenada,126278,95,True
+1340,Perez-Garrett,6978ba7e,Retail,Rwanda,974921,33,True
+1476,"Atkinson, Hoover and Benton",118bb486,Import/Export,Saint Vincent and the Grenadines,599771,92,True
+1064,"Schneider, Mccullough and Mullen",4351bad6,Finance,Chad,361621,100,True
+1449,Fowler-Morton,b388fa92,Retail,Malaysia,440710,37,True
+1258,Butler Ltd,8b9218ca,Healthcare,Falkland Islands (Malvinas),364620,85,False
+1376,"Richardson, Ryan and Silva",b9172dcd,Healthcare,Tanzania,542227,79,True
+1257,Padilla-Cochran,f2316081,Import/Export,Qatar,401728,67,True
+1147,Morgan Group,32c0ae30,Finance,Guatemala,440962,76,True
+1288,"Johnson, Kim and Martin",6be3a735,Retail,British Indian Ocean Territory (Chagos Archipelago),844486,46,True
+1223,Rose-Miller,c2b3dffa,Healthcare,Canada,299216,15,True
+1040,"Robinson, Walker and Hill",f19f3cab,Import/Export,Burundi,301149,99,True
+1443,Payne-Snow,bd79008b,Retail,Bermuda,683977,64,True
+1451,Johnson LLC,4b23ee15,Retail,Guernsey,794301,71,True
+1346,Gillespie LLC,21ec0c2c,Crypto,Guinea,810233,45,True
+1111,Turner Ltd,dec9bf00,Healthcare,Macao,483474,97,True
+1482,"Morales, Grant and Lara",cc8d87df,Import/Export,Oman,728085,77,True
+1134,Edwards and Sons,3313cd3a,Healthcare,Algeria,822017,34,True
+1335,Gilbert Group,907b0e63,Finance,Madagascar,212442,62,True
+1496,Peters Inc,1c99955e,Crypto,Nicaragua,458981,16,False
+1118,"Marquez, Cochran and Cox",4c9d27b1,Retail,Estonia,675025,40,False
+1239,Parker and Sons,020ed23d,Healthcare,Egypt,507075,49,True
+1137,"Franklin, Walker and Schmitt",a0844c1f,Healthcare,Luxembourg,797974,22,False
+1307,Banks-Shaffer,cb2cb546,Crypto,Netherlands Antilles,155456,42,False
+1043,"Garrison, King and Romero",2dfea769,Healthcare,Tajikistan,427157,58,True
+1245,Garcia-Rodriguez,36c28a8a,Retail,Bouvet Island (Bouvetoya),364150,40,False
+1380,Lowe-Myers,16996da5,Finance,Japan,249492,20,True
+1286,Martinez Inc,fe2fe9cb,Finance,Fiji,265750,59,True
+1086,Green-Simmons,2dea63a0,Healthcare,Aruba,519591,95,True
+1076,Watkins-Haynes,746234f2,Crypto,Japan,146085,70,False
+1488,Little LLC,37371925,Finance,Greece,721845,75,False
+1103,Rivera-Dunn,2b299041,Healthcare,French Southern Territories,194252,99,True
+1469,Wright-Robertson,7e754aa9,Import/Export,Suriname,867595,74,True
+1419,Rose and Sons,8c47b018,Crypto,Djibouti,373817,93,True
+1123,Ramirez-Sanders,3bfef1a5,Import/Export,Trinidad and Tobago,357921,100,False
+1183,Wright-Allen,30c742d2,Healthcare,Cuba,274637,93,False
+1367,Kim-Perry,36142a2f,Healthcare,Guernsey,863817,55,True
+1178,Glover Inc,526a434d,Finance,Tunisia,172247,43,True

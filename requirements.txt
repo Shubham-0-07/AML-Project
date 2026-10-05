@@ -1,0 +1,24 @@
+#Core Data Handling and Generation
+pandas==2.3.2
+numpy==2.3.2
+Faker==19.13.0
+
+#Supervised and Unsupervised Machine Learning
+scikit-learn==1.7.1
+lightgbm==4.6.0
+xgboost==3.0.4
+
+#Deep Learning - Graph Neural Network (PyTorch)
+torch==2.4.0
+torch-geometric==2.6.1
+
+#PyTorch Geometric C++/CUDA Extensions (required for GNN model)
+pyg-lib==0.4.0
+torch-scatter==2.1.2
+torch-sparse==0.6.18
+torch-cluster==1.6.3
+
+#Visualization and Model Explainability
+matplotlib==3.10.6
+seaborn==0.13.2
+shap==0.45.0

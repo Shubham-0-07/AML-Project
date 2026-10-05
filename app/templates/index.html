@@ -1,0 +1,17 @@
+<!doctype html>
+<html>
+<head><title>AML Prediction</title></head>
+<body>
+  <h1>Transaction Risk Prediction</h1>
+  <form method="post">
+    Amount: <input type="number" name="amount" step="0.01"><br>
+    Hour of Day (0-23): <input type="number" name="hour"><br>
+    Day of Week (0=Mon, 6=Sun): <input type="number" name="day_of_week"><br>
+    <input type="submit" value="Predict">
+  </form>
+  {% if prediction %}
+    <h3>Prediction: {{ prediction }}</h3>
+  {% endif %}
+  <br><a href="/dashboard">View Dashboard →</a>
+</body>
+</html>
